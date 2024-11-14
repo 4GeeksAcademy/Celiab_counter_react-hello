@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
